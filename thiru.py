@@ -1,5 +1,4 @@
-a=1
+a=100
 b=2
-c=5
-print(a+b+c)
+print(a+b)
 
